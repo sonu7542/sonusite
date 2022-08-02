@@ -1,0 +1,123 @@
+
+ *{
+        padding: 0%;
+        margin: 0%;
+        box-sizing: border-box;
+        
+    }
+    .col{
+        padding: 100px;
+        background-color: peru;
+    }
+    .link{
+text-align: center;
+       padding: 20px;
+       font-size: 40px; 
+    }
+    .ndlink{
+        font-size: 40px;
+        text-align: center;
+        padding: 20px;
+    }
+h2{
+    color: #fff;
+    font-size: 17;
+    font-family: 'Merriweather', serif;
+    text-align: center;
+   
+}
+.sho{
+    padding: 0px;
+    background-color: palevioletred;
+}
+.cut{
+    padding: 0px;
+    background-color:brown;
+}
+.eff{
+    padding: 0px;
+    background-color: purple;
+}
+.textbg{
+    padding: 0px;
+    background-color: blueviolet;
+}
+.all{
+    padding: 0px;
+    background-color: blue;
+}
+
+.home{
+    
+    background-color: black;
+}
+.tracut{
+    padding: 40px;
+}
+.shortvibe{
+padding: 10px;
+}
+.Effectv{
+    padding: 50px;
+}
+.trilertitle{
+    padding: 50px;   
+}
+.motiongr{
+    padding: 50px;   
+}
+.eventpromo{
+    padding: 40px;
+}
+.skyrepl{
+    padding: 40px;
+}
+.weddigvideo{
+    padding: 40px;
+}
+.timehyplapse{
+    padding: 40px;
+}
+.colorgrd{
+    padding: 40px;
+}
+.vfx{
+    padding: 40px;
+}
+.greenscreenef{
+    padding: 40px;
+}
+.filmtriler{
+    padding: 40px;
+}
+
+.vid{
+    margin: auto;
+    padding: 0px 0px 0px 5px;
+}
+.vida{
+    margin: 0px 0px 0px -30.9px;
+    padding: 0px 0px 0px 5px;
+}
+.vidb{
+    margin: 0px 0px 0px -30.9px;
+    padding: 0px 0px 0px 5px;
+}
+.vidc{
+    margin: 0px 0px 0px -30.9px;
+    padding: 0px 0px 0px 5px;
+}
+ h1{
+    
+    font-size: 90px;
+    color:  black;
+    font-weight: 600;
+    text-align: center;
+    transition: 0.5s;
+    opacity: 0.3;
+}
+ h1:hover {
+-webkit-text-stroke:2px black;
+color: transparent;
+
+}
